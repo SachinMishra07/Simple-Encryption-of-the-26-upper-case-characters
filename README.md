@@ -9,4 +9,4 @@ This code takes original text as input from the user and produce cipher text usi
 (2). Compile the code: javac SimpleEncryption.java
 (3). Run the code:     java SimpleEncryption
 
-// For contributers, you can make this code for all symbols and characters. You are most welcome for this.
+// For contributers, you can make this code for all symbols and characters. You're most welcome for this.
